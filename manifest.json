@@ -1,0 +1,21 @@
+{
+  "name": "Stakes",
+  "short_name": "Stakes",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ef5e5e",
+  "theme_color": "#ef5e5e",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/ix55FEG.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.imgur.com/2ULYbdK.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
